@@ -1,0 +1,22 @@
+body {
+    background-color: #a6cec0;
+    display: flex;
+}
+
+.valor1 {
+    background-color: #3c6561;
+    color: ivory;
+    display: flex;
+    border-radius: 9px;
+}
+
+.valor2 {
+    background-color:#3c6561;;
+    color: ivory;
+    display: flex;
+    border-radius: 9px;
+}
+
+.botoes {
+    display: flex;
+}
